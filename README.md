@@ -1,5 +1,6 @@
 # VentaAutos
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
+(https://media-front.elmostrador.cl/2023/06/DSC_0108-700x342.jpg)
 
 # Apo2 Manejo de Funciones
 
