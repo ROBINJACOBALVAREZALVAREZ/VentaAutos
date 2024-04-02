@@ -1,15 +1,15 @@
 # VentaAutos
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png) AAAAAAAAAAAAAAAAAAAA
+![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
 
 # Apo2 Manejo de Funciones
 
 Un párrafo de la descripción del proyecto va aquí.
 
-## Empezando
+# Empezando
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
-### Requisitos previos
+# Requisitos previos
 
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
